@@ -6,4 +6,7 @@
 ## Jak nainstalovat titulky:
 
 Přejděte do složky s hrou -> lang a nahraďte english.json
+
+Nebo nainstalujte přes [installer](https://github.com/Zapak69/zort-czech/releases/download/Installer/Titulky.exe)
+
 po spuštění hry by měli titulky fungovat
